@@ -7,6 +7,19 @@ This is a (shorter) portion of the workshop focused on two things:
 
 Let's get started :)
 
+## table of contents
+
+* [why a portfolio?](#why-a-portfolio)
+* [what you'll learn](#what-youll-learn)
+* [some ~ cool peeps ~](#some--cool-peeps-)
+* [tips! and on selling yourself!](#tips-and-on-selling-yourself)
+  * [some ~ key ~ web design terms and ideas](#some--key--web-design-terms-and-ideas)
+    * [responsiveness](#responsiveness)
+    * [above-the-fold](#above-the-fold)
+    * [web accessibility](#web-accessibility)
+  * [on selling yourself](#on-selling-yourself)
+* [Licensing](#licensing)
+
 ## why a portfolio?
 
 The best way to learn web development, plain and simple, is to practice. So, let's get to it!
