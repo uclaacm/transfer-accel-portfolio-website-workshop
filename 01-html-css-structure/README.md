@@ -1,6 +1,8 @@
 # intro to HTML & CSS: structure
 
-TODO
+In this workshop, we'll build a basic intuition of HTML and CSS, the two languages that affect how a website looks. We'll emphasize HTML as a tool that defines the **structure** of a webpage; more on that later.
+
+*Note:* this workshop's written portion is almost identical to what Matt and [Leo](https://krashanoff.com/) ran for the [Learning Labs Crash Course, Lesson 1](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/01-intro-html-css).
 
 ## Table of Contents
 
@@ -813,6 +815,9 @@ Luckily, we don't need to live with these strange styling decisions! We can alwa
 
 ## Putting It All Together
 
+this part -> now, making a `portfolio.html`
+
+TODO
 
 ## Licensing
 

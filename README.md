@@ -58,11 +58,11 @@ Good question! Luckily for us, the internet has tons of great resources, includi
 
 * TODO
 * use [StackOverflow](https://stackoverflow.com/)! There's no shame, and it's likely that many others have run into your problem too!
-* ask us! QWER Hacks has a mentor system through Discord, and quite a few of the mentors are experienced in React, Firebase/Firestore, and web development!
+* ask us in the mentor discord! we don't byte :)
 
 ### Who is Matt?
 
-Glad you asked! I ([Matt](https://matthewwang.me)) am a rising fourth-year CS & Math-Econ major at UCLA, and the current president of [ACM at UCLA](https://uclaacm.com). I'm really passionate about education, technology, and their intersection - which is something that I love doing at ACM! I'm also focused on about making tech a more diverse and welcoming place, which is an issue that definitely needs some work. I spend a lot of time working on EdTech, training developers, and doing mentorship - feel free to ask me about that!
+Glad you asked! I ([Matt](https://matthewwang.me)) am an incoming fourth-year CS & Math-Econ major at UCLA, and the current president of [ACM at UCLA](https://uclaacm.com). I'm really passionate about education, technology, and their intersection - which is something that I love doing at ACM! I'm also focused on about making tech a more diverse and welcoming place, which is an issue that definitely needs some work. I also used to run our outreach wing, [ACM Teach LA](https://teachla.uclaacm.com) I spend a lot of time working on EdTech, training developers, and doing mentorship - feel free to ask me about that!
 
 In terms of work experience, I'm definitely not an absolute professional, but I've done quite a bit of web development over the years! I've worked with web technologies in a variety of contexts - in a startup, in a mid-sized company, at a handful of big tech companies, and in personal projects. HTML and CSS (the content of htis workshop) are the bread and butter of everything I do; beyond that, I've spent a bit *too* much time with React. The bigger list includes:
 
@@ -79,7 +79,9 @@ If you've got questions about these things, or more broadly anything related to 
 
 [Matt](https://matthewwang.me) has taught a few variants of these workshops before; past iterations include:
 
-* TODO
+* [Learning Labs Crash Course - Lesson 01: Intro to HTML & CSS](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/01-intro-html-css)
+* [Learning Labs Crash Course - Lesson 02: Intermediate CSS: The Box Model & Positioning](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/02-intermediate-css)
+* [Learning Labs Crash Course - Task 1: Make a Portfolio Website!](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/task-1-portfolio)
 
 He'd also like to thank:
 
