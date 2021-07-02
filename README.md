@@ -22,10 +22,9 @@ This repository has a lot of stuff going on, and it's a long workshop! Here's an
 
 TODO
 
-* Intro to HTML & CSS: structure
-* Intro to HTML & CSS: style
+* Intro to HTML & CSS: structure and style
 * ~ inspo interlude ~ and selling yourself
-* Intermediate HTML & CSS: layout
+* Intermediate HTML & CSS: position and layout
 * Work Period
 * Lunch Break!
 * Using `git`, GitHub, and GitHub Pages

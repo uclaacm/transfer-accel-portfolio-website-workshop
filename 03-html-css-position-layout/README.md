@@ -1,4 +1,4 @@
-# intro to HTML & CSS: style
+# intro to HTML & CSS: position and layout
 
 In this workshop, we'll build a basic intuition of HTML and CSS, the two languages that affect how a website looks. We'll emphasize HTML as a tool that defines the **structure** of a webpage; more on that later.
 
