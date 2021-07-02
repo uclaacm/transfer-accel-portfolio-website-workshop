@@ -2,7 +2,7 @@
 
 Hi there! These are written notes, code demos, and checkpoints for a workshop that I ([Matt](https://matthewwang.me), he/him) ran at UCLA Engineering's Transfer Accelerator '21. The focus of this workshop is to teach a variety of engineering students how to **code and deploy their own personal portfolio website**. We teach HTML, CSS, a tiny bit of JS, and a working knowledge of git and GitHub - **all without assuming any prior programming experience.** By the end of the workshop, they will have a website that looks like this. TODO
 
-As a note: this is technically "one workshop", but it's broken up into bite-sized chunks - feel free to take a peek at whatever interests you. Each chunk contains everything (code, tec.) you need to start it!
+As a note: this is technically "one workshop", but it's broken up into bite-sized chunks - feel free to take a peek at whatever interests you. Each chunk contains everything (code, etc.) you need to start it!
 
 ## Table of Contents
 
