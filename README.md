@@ -81,6 +81,7 @@ If you've got questions about these things, or more broadly anything related to 
 
 * [Learning Labs Crash Course - Lesson 01: Intro to HTML & CSS](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/01-intro-html-css)
 * [Learning Labs Crash Course - Lesson 02: Intermediate CSS: The Box Model & Positioning](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/02-intermediate-css)
+* [Learning Labs Crash Course - Lesson 04: Intermediate CSS: Flexbox & Grid](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/04-flexbox-grid)
 * [Learning Labs Crash Course - Task 1: Make a Portfolio Website!](https://github.com/uclaacm/learning-lab-crash-course-su20/tree/main/task-1-portfolio)
 
 He'd also like to thank:

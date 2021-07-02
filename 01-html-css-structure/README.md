@@ -45,7 +45,9 @@ In this workshop, we'll build a basic intuition of HTML and CSS, the two languag
 * [Putting It All Together](#putting-it-all-together)
 * [Licensing](#licensing)
 
+## Workshop Goals
 
+TODO
 ## An aside on getting set up
 
 TODO
