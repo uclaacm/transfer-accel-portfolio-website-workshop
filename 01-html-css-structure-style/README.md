@@ -47,7 +47,17 @@ In this workshop, we'll build a basic intuition of HTML and CSS, the two languag
 
 ## Workshop Goals
 
-TODO
+This chunky workshop is a primer for HTML and CSS. At the end of it, you should be able to:
+
+* describe what HTML and CSS are, and generally how they're used
+* understand the tag syntax for HTML
+* learn many basic tags (see the TOC for full deets)
+* understand how to inspect the HTML of a webpage with dev tools!
+* understand HTML properties
+* understand the selector, key-value syntax of CSS
+* learn many basic CSS properties (see TOC for full deets)
+* understand (on a basic level) CSS conflict resolution
+* externally link a stylesheet with `<link>`
 
 ## An aside on getting set up
 
@@ -669,6 +679,7 @@ h1 {
 #### `color`
 
 This property allows us to change the color of text contained by a particular tag. One can use any of the following color code combinations:
+
 * Named colors: `white`, `red`, `green`, `blue`, `grey`, `black`, ...
 * Hex: `#030123`
 * RGB: `rgb(3, 1, 35)`
@@ -770,6 +781,7 @@ At a high level, the last rule to be declared is what takes precedence. So in ou
 However, when there are multiple rules applying from multiple **selectors**, precedence takes effect. **The most specific selector wins out on conflicting rules**.
 
 Here's the list of selector specificity, in order of least to most specific:
+
 * Type selectors (`h1`, `div`, etc.)
 * Class selectors (`.reallybig`)
 * ID selectors (`#page-title`)
@@ -789,6 +801,7 @@ Before we move on, there are of course ways to override these rules, but you sho
 Now that we've learned how to read and write CSS, how will we link this in to our webpage to apply the styling changes? Easy enough, we use the [`<link>`](#link) tag!
 
 Running down the list of properties for a `<link>`:
+
 * Our file's path (`href`) is `./base.css`.
 * Our file's type (`type`) is `text/css`.
 * Our file's relationship to the document (`rel`) is a `stylesheet`.

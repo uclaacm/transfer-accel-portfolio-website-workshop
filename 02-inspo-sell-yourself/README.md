@@ -115,8 +115,6 @@ The above-the-fold is a really key part of web development, since it informs the
 * how much information is on the page at once? is it overwhelming?
 * does it take a long time to load? would the user be waiting for a bit?
 
-TODO - examples?
-
 #### web accessibility
 
 **Web accessibility** is a really important but often undervalued part of the web. Many elements of websites - from colors to typography to images to videos and animations - can actually be exclusive to all sorts of people!
@@ -143,7 +141,14 @@ Of course, we can't encapsulate the entire effect that disability has on end use
 
 ### on selling yourself
 
-TODO
+This is going to be a live part of the workshop, more focused on discussion and sharing personal experience; unfortunately, hard to put into writing.
+
+We'll take some inspiration from the ideating for this section; many thanks to Reiya for providing these questions and thoughts:
+
+* What is a reasonable tone to have on a resume?
+* What amount of experience must I have before putting something on my resume?
+* What classes should I list on my resume, if any?
+* How should I describe my work? What does "actionably" describing my work look like?
 
 ## Licensing
 

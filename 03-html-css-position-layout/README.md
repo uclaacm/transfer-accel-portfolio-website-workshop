@@ -6,7 +6,22 @@ In this workshop, we'll build a basic intuition of HTML and CSS, the two languag
 
 ## Table of Contents
 
-TODO
+* [Workshop Goals](#workshop-goals)
+* [The Box Model](#the-box-model)
+  * [The Content Area](#the-content-area)
+  * [The Padding Area](#the-padding-area)
+  * [The Border Area](#the-border-area)
+  * [The Margin Area](#the-margin-area)
+  * [Padding vs. Margin](#padding-vs-margin)
+  * [Aside: the box-sizing property](#aside-the-box-sizing-property)
+* [display:inline and display:block](#displayinline-and-displayblock)
+* [The position property](#the-position-property)
+  * [A quick aside on z-index](#a-quick-aside-on-z-index)
+* [CSS Grid](#css-grid)
+  * [But wait, there's more](#but-wait-theres-more)
+* [Putting It All Together](#putting-it-all-together)
+* [Licensing](#licensing)
+
 
 ## Workshop Goals
 
@@ -25,8 +40,9 @@ On the `position` property, we'll answer:
 
 On layout, we'll discuss:
 
-* What is CSS Grid? What is it useful for?
-* What is Flexbox? What is it useful for (note: this will be brief)?
+* What is CSS Grid?
+* What is it useful for?
+* What are some other alternatives?
 
 We'll then put this all together and work on a pretty neat website!
 
@@ -473,15 +489,22 @@ The best part of using the `auto` keyword is that we can allow the rows and colu
 
 There's a **lot** more to CSS grid than we've covered, but the purpose of this section was to simply introduce it. If you'd like to read any more about it, you can find some great [resources](#Resources) down below.
 
-## Flexbox, in brief
+## Some other layout options
 
-TODO
+CSS Grid is not our only layout option! We don't really have time to go in-depth for others, but let's quickly mention some other alternatives that you may have heard of:
+
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) (short for flexible box model) is an alternative `display` mode that's much more *flexible* than CSS Grid. It's great for vertically aligning objects, dealing with items that might have variable or unknown sizes, and really complicated layouts.
+* [Float (and clearfix)](https://developer.mozilla.org/en-US/docs/Web/CSS/float) is a tried and true method to align elements to the left and right of a container. For many cases, CSS Grid can do the trick!
 
 ## Putting It All Together
 
-this part -> now, making a `portfolio.html`
+This section is done live, and we do it together as a group; unfortunately, it's pretty hard to put this into writing.
 
-TODO
+We'll run through:
+
+* making common elements with the box model modifiers: "cards", buttons, and navbars
+* creating a two-column layout with grid and box model modifiers
+* using `position: fixed;` to make a navbar!
 
 ## Licensing
 
