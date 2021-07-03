@@ -13,14 +13,44 @@
 * [Deploying Your Website with GitHub Pages](#deploying-your-website-with-github-pages)
 * [Licensing](#licensing)
 
-
 ## what's git?
+
+[Git](http://git-scm.com/) (or `git`) is a "**version-control system**" (and in particular, a distributed one). In other words, it's a special type of software used to help us keep track of our code. We're not going to delve too deep into what that means, but for now, we'll note three core features it has:
+
+* `git` helps back up your code - like Google Drive
+* `git` lets you keep a history of all your changes you make to your code - like an undo button
+* `git` lets you work on code with teammates, without interfering with each other's code - like (a better) Google Docs
+
+Git is an invaluable skill to have if you do any sort of software development in the future. That being said, it *definitely* can be confusing! Here, we'll only focus on a very small subset of it, the bare minimum needed for our website.
 
 ### do I have to use the command line?
 
+Nope! While `git` mostly does live on the command line, this workshop can be done with [GitHub Desktop](https://desktop.github.com), a desktop app that accomplishes the basic git tasks we do here!
+
+*That being said*, familiarity with the command line and the `git` command is a big plus. If you plan on doing more coding in the future, it might be a good skill to pick up! But that doesn't have to start today if you're not comfortable.
+
 ## what's GitHub?
 
+GitHub is *not* `git`, which is a common mistake! While `git` is a piece of softwared, GitHub is a product (and company) that *wraps around* `git` to make it easier to use and enhance some features. It's too much to list out at once, but we'll make use of:
+
+* GitHub keeping copies of your code - no worries if you lose your computer!
+* GitHub providing free domain hosting at `.github.io`
+* GitHub has made a desktop client for `git` called GitHub Desktop!
+
+There's also so many other cool features:
+
+* GitHub makes collaborating with teammates easy!
+* GitHub lets you automatically test your code with Actions
+* GitHub lets you follow your friends and cool creators
+* and much more!
+
+Again, GitHub is very complicated, and don't worry at all about mastering it in a day! We'll walk you through the steps for your own website.
+
 ### a note on account names
+
+When you make a GitHub account, we recommend thinking carefully about your account name; changing it down the line *is* a bit tricky, and if you're planning on using this professionally (many people do), you might want to think hard!
+
+In addition, your account name determines the free domain GitHub gives you. if your account name is `geneblockme`, then your free GitHub domain will be `geneblockme.github.io`.
 
 ## git with GitHub Desktop
 
@@ -32,7 +62,7 @@ The process we'll use with GitHub Desktop is going to be:
 4. push your changes
 5. see them in action :)
 
-TODO
+(Matt ran out of time to do this with screenshots for the day-of - please refer to [the GitHub Desktop Help page for now](https://docs.github.com/en/desktop). sorry!)
 
 ## git with the command line
 
@@ -75,10 +105,10 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-This is an important distinction. Just because we've changed a file, doesn't mean it'll be updated just yet. To do that, we need to move it to staging, using `git add`; we're going to cheat and use the glob pattern `*`, which means all files (but we could've also done `git add README.md`):
+This is an important distinction. Just because we've changed a file, doesn't mean it'll be updated just yet. To do that, we need to move it to staging, using `git add`; we're going to cheat and use the glob pattern `.`, which means all files (but we could've also done `git add README.md`):
 
 ```sh
-$ git add *
+$ git add .
 $ git status
 On branch main
 
