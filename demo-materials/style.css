@@ -1,0 +1,66 @@
+/* my styles! */
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #BDABDA;
+}
+
+.acm-logo {
+  width: 250px;
+}
+
+.info-box {
+  padding: 30px;
+  border: 1px solid black;
+}
+
+.white-box {
+  background-color: white;
+  font-size: 20px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.colin-is-cool {
+  padding: 10px;
+}
+
+.what-colin-said {
+  margin: 10px;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: auto auto;
+  border-bottom: 1px solid black;
+  background-color: #BDABDA;
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.text-right{
+  text-align: right;
+}
+
+#red-box {
+  background-color: red;
+}
+
+.ellie-photo {
+  width: 500px;
+}
