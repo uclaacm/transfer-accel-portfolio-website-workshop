@@ -48,11 +48,25 @@ In this workshop, we'll build a basic intuition of HTML and CSS, the two languag
 ## Workshop Goals
 
 TODO
+
 ## An aside on getting set up
 
-TODO
+For this workshop, you'll need two things:
+
+* a modern web browser - we'll peer into inspect element, and use it to "run" our website
+* a text editor. You can use whichever you prefer; if you don't have one, we recommend [Visual Studio Code](https://code.visualstudio.com/)
+
+You'll see code written in code fences, like this:
+
+```html
+<p>Stream modern loneliness by Eugene Lo</p>
+```
+
+That means to put that code into a file, and then save it!
 
 ## What is HTML?
+
+Web developers have an insane amount of acronyms, from HTML and CSS and JS to REST and SOAP and HTTP. Let's start from the *root* - HTML.
 
 ### Prelude: inspect element
 
@@ -64,7 +78,7 @@ You'll be greeted with something that looks a little bit like this:
 
 ![inspect element panel in firefox](images/inspect2.png)
 
-What you're looking at right now in that inspect element panel is **HyperText Markup Language (more commonly abbreviated HTML)** - one of the three core languages that drive the web. **It is an interpreted, declarative, tree-structured document formatting language** that is processed by your web browser.
+What you're looking at right now in that inspect element panel is **HyperText Markup Language** (more commonly abbreviated as **HTML**) - one of the three core languages that drive the web. **It is an interpreted, declarative, tree-structured document formatting language** that is processed by your web browser.
 
 That is, an HTML file isn't compiled, and nothing special needs to be done to it for your web browser to understand it. As for the rest of that definition, it might sound like a bunch of words right now, but by the end of this lesson, you should be able to understand (and explain) what it all means.
 
@@ -179,8 +193,9 @@ A natural question might be, wht do we have both `html` and `body`? Great questi
 </html>
 ```
 
-TODO IMAGE
+Note that your page hasn't changed. But, the title of the tab should've!
 
+![the browser tab now says "matt is occasionally fun"](images/title.png)
 
 Broadly, the `<head>` is where all the things that you would prefer the web browser not to render go. Usually, this is one of two categories:
 
@@ -470,8 +485,6 @@ With this in mind, let's find an image and add it to our document:
 ```
 
 Notice we take advantage of the self-closing tag here. Let's open this in our web browser to see what it looks like:
-
-TODO
 
 ![webpage with addition of ACM at UCLA logo](images/img.png)
 
@@ -817,9 +830,15 @@ Luckily, we don't need to live with these strange styling decisions! We can alwa
 
 ## Putting It All Together
 
-this part -> now, making a `portfolio.html`
+This section is done live, and we do it together as a group; unfortunately, it's pretty hard to put this into writing.
 
-TODO
+We'll run through:
+
+* visually making a header
+* writing a bit about themselves
+* inserting a photo
+* adding some links!
+* using different typography and colors
 
 ## Licensing
 
