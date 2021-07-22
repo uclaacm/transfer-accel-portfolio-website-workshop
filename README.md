@@ -34,7 +34,14 @@ This repository has a lot of stuff going on, and it's a long workshop! Here's an
 
 ### Where can I find videos?
 
-They'll probably be coming soon - we plan on recording the lecture portions of the workshop!
+The Transfer Engineering Center graciously recorded parts of the workshop us! Here they are, broken up in chunks:
+
+* [overview + intro to HTML & CSS: structure and style](https://youtu.be/vagT7f0b_a4)
+* [intro HTML & CSS: position and layout](https://www.youtube.com/watch?v=Rj0J5vMvtg0)
+* [using `git`, GitHub, and GitHub Pages](https://www.youtube.com/watch?v=ZMYw2M08K-w)
+* [next steps](https://www.youtube.com/watch?v=AR0eTqcJmRM)
+
+The other portions were not recorded - but feel free to refer to the notes!
 
 ### What do I need to know to take this workshop?
 
