@@ -1,6 +1,6 @@
 # code your own website! (@ transfer accelerator '21)
 
-Hi there! These are written notes, code demos, and checkpoints for a workshop that I ([Matt](https://matthewwang.me), he/him) ran at UCLA Engineering's Transfer Accelerator '21. The focus of this workshop is to teach a variety of engineering students how to **code and deploy their own personal portfolio website**. We teach HTML, CSS, a tiny bit of JS, and a working knowledge of git and GitHub - **all without assuming any prior programming experience.** By the end of the workshop, they'll come away with their own workshop.
+Hi there! These are written notes, code demos, and checkpoints for a workshop that I ([Matt](https://matthewwang.me), he/him) ran at UCLA Engineering's Transfer Accelerator '21. The focus of this workshop is to teach a variety of engineering students how to **code and deploy their own personal portfolio website**. We teach HTML, CSS, and a working knowledge of git and GitHub - **all without assuming any prior programming experience.** By the end of the workshop, they'll come away with their own workshop.
 
 As a note: this is technically "one workshop", but it's broken up into bite-sized chunks - feel free to take a peek at whatever interests you. Each chunk contains everything (code, etc.) you need to start it!
 
